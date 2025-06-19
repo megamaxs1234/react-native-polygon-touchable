@@ -1,0 +1,29 @@
+{
+  "name": "react-native-polygon-touchable",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "types": "src/PolygonTouchable.tsx",
+  "react-native": {
+    "android": {
+      "sourceDir": "./android"
+    },
+    "ios": {
+      "sourceDir": "./ios"
+    }
+  },
+  "keywords": [
+    "react-native",
+    "custom view",
+    "native module",
+    "polygon touch",
+    "non rectangular button",
+    "star button"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "peerDependencies": {
+    "react": "*",
+    "react-native": ">=0.60"
+  }
+}
